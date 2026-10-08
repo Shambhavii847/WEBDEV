@@ -30,6 +30,22 @@ h3{
 
 div>p{color: yellow;}
 
+.css-unit{
+    font-size: 2em;
+    background-color: rgb(143, 129, 238);
+    height: 50vh;
+    width: 50vh;
+}
+
+.container{
+    margin: 0 auto;
+    width: 600px;
+    border: 15px double white;
+}
+
+footer{
+    font-size: 20px;
+}
 
 p{
     font-size: 14px;
