@@ -1,0 +1,20 @@
+.big{
+    width: 500px;
+    height: 400px;
+    background: blue;
+    position: absolute;
+    z-index: 1;
+    border-radius: 5%;
+    text-align: right;
+    
+}
+.small{
+    width: 200px;
+    height: 200px;
+    background: green;
+    position: absolute;
+    z-index: 2;
+    right:300px;
+    top: 200px;
+    border-radius: 10%;
+}
