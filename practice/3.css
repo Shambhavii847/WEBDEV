@@ -1,0 +1,33 @@
+.blue{
+    position:relative;
+    background-color:rgb(108, 108, 218);
+    width: 600px;
+    height: 400px;
+}
+.top-center {
+  position: absolute;
+  top: 8px;
+  left: 250px;
+  font-size: 20px;
+  
+}
+.bottom-center {
+  position: absolute;
+  bottom: 8px;
+  left: 250px;
+  font-size: 20px;
+}
+.center-left {
+  position: absolute;
+  top: 50%;
+  left: 8px;
+  font-size: 20px;
+  
+}
+.center-right {
+  position: absolute;
+  top: 50%;
+  right: 8px;
+  font-size: 20px;
+  
+}
